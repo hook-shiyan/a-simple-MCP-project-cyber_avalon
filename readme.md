@@ -14,7 +14,6 @@ cyber_avalon/
 └── utils/                   # 工具层
     ├── prompts.py           # 集中存放所有繁杂的 System Prompts 和 JSON Schema
     └── logger.py            # 日志记录器（将 AI 的内部 OS 和完整对局保存到本地文件，方便复盘查错）
-
 赛博圆桌会议、电子斗蛐蛐之八个ai一起玩阿瓦隆。
 
 目前存在的问题在于，ai总是陷入毫无进展的吵架，无法正常推进第一轮游戏，纠结于第一轮的人选。
